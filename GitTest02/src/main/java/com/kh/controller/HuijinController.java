@@ -4,4 +4,8 @@ public class HuijinController {
 	public static void methodB() {
 		
 	}
+	
+	public static void methodA() {
+		
+	}
 }
